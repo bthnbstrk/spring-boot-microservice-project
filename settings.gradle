@@ -1,4 +1,5 @@
 rootProject.name = 'SocialMediaUdemy'
 include 'AuthMicroservice'
 include 'UserMicroservice'
+include 'ConfigServer'
 
